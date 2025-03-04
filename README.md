@@ -2,13 +2,13 @@
 <h1 align="center">Hi there, I'm 亗ᴛᴀᴍᴊɪᴅ亗 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/SEFAT-777">
+  <a href="https://github.com/Tamjid142">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Let's+create+something+awesome!" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEFAT-777">
+  <a href="https://github.com/Tamjid142">
     <img src="https://visitor-badge.glitch.me/badge?page_id=SEFAT-777.SEFAT-777" alt="Profile Visitors" />
   </a>
   <a href="https://github.com/SEFAT-777?tab=followers">
