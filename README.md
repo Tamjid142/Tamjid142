@@ -53,10 +53,10 @@ Here are some of my favorite projects I've worked on:
 
 <p align="center">
   <a href="https://github.com/Tamjid142">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEFAT-777&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Tamjid142&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Tamjid142">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEFAT-777&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamjid142&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
@@ -66,7 +66,7 @@ Here are some of my favorite projects I've worked on:
 
 <p align="center">
   <a href="https://github.com/Tamjid142">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEFAT-777&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Tamjid142&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
