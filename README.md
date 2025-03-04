@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://github.com/Tamjid142">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=SEFAT-777.SEFAT-777" alt="Profile Visitors" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Tamjid142.Tamjid142" alt="Profile Visitors" />
   </a>
-  <a href="https://github.com/SEFAT-777?tab=followers">
-    <img src="https://img.shields.io/github/followers/SEFAT-777?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/Tamjid142?tab=followers">
+    <img src="https://img.shields.io/github/followers/Tamjid142?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ### 🔥 **About Me**
 
-Hi, I'm Sefat Sarker, an 18-year-old Python developer passionate about coding and building innovative solutions. I enjoy tackling challenges and continuously learning to improve my skills in programming and software development.
+Hi, I'm ᴛᴀᴍᴊɪᴅ, an 18-year-old Python developer passionate about coding and building innovative solutions. I enjoy tackling challenges and continuously learning to improve my skills in programming and software development.
 
 ---
 
@@ -52,10 +52,10 @@ Here are some of my favorite projects I've worked on:
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <a href="https://github.com/SEFAT-777">
+  <a href="https://github.com/Tamjid142">
     <img src="https://github-readme-stats.vercel.app/api?username=SEFAT-777&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/SEFAT-777">
+  <a href="https://github.com/Tamjid142">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEFAT-777&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
@@ -65,7 +65,7 @@ Here are some of my favorite projects I've worked on:
 ### 🏆 **GitHub Trophies**
 
 <p align="center">
-  <a href="https://github.com/SEFAT-777">
+  <a href="https://github.com/Tamjid142">
     <img src="https://github-profile-trophy.vercel.app/?username=SEFAT-777&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </p>
